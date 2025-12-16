@@ -33,11 +33,11 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 # ------------------------------------------------------------------
 DEFAULT_DATA = {
     "config": {
-        "name": "Student Name",
-        "course_number": "CIS Python Programming",
-        "course_description": "Describe the Course",
-        "profile_info": "Tell us something about yourself.",
-        "linkedin": "https://www.linkedin.com/in/britt-rios-ellis-58597119/",
+        "name": "Jenat James",
+        "course_number": "CIS2020",
+        "course_description": "Introduction to Python Programming",
+        "profile_info": "Hello! I am a 2nd year CIS student at CSU Stanislaus. I'm currently working on a capstone project.",
+        "linkedin": "www.linkedin.com/in/jenat-james-a4724438b",
         "theme": "quartz",
         "profile_image": ""
     },
